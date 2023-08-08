@@ -1,0 +1,15 @@
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\jose.filho\Desktop\DEV\CSHARP\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
