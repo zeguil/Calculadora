@@ -13,11 +13,11 @@ namespace Calculadora
                 Console.Clear();
                 Console.WriteLine("CALCULADORA");
                 Console.WriteLine("DIGITE A OPERAÇÃO QUE DESEJA REALIZA\n1 - Soma\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n5 - Sair\n");            
-                string escolha = Console.ReadLine();
+                string escolha = int.Parse(Console.ReadLine());
                 
                 Console.Clear();
                 
-                if (escolha == "5"){
+                if (escolha == 5){
                     continuarLoop = false;
                     break;
                     
@@ -30,16 +30,16 @@ namespace Calculadora
                     Console.Clear();
                     switch (escolha)
                     {
-                        case "1": 
+                        case 1: 
                             Soma(valor1, valor2);
                             break;
-                        case "2":
+                        case 2:
                             Subtracao(valor1, valor2);
                             break;
-                        case "3":
+                        case 3:
                             Multiplicacao(valor1, valor2);  
                             break;
-                        case "4":
+                        case 4:
                             Divisao(valor1, valor2);
                             break;
                         default: Console.WriteLine("Opção Invalida");
