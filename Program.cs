@@ -20,14 +20,10 @@ namespace Calculadora
 
                 if (escolha == 5)
                 {
-                    continuarLoop = false;
-                    break;
-                }
-                else if (escolha > 5)
-                {
-                    Console.WriteLine("\nOpção Invalida");
-                    continuarLoop = false;
-                    break;
+                    System.Environment.Exit(0);
+                }else if (escolha > 5){
+                    Console.WriteLine("\nOpção Invalida\n");
+                    Console.ReadKey();
                 }
                 else
                 {
